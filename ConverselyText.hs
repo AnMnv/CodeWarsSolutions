@@ -1,4 +1,5 @@
 module Hue where
+	
 
 invText :: [Char] -> [Char]
 invText [] = []
